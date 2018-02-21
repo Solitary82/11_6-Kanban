@@ -9,6 +9,10 @@ body {
 	background-size: cover;
 }
 
+ul {
+	min-height: 200px;
+}
+
 li {
 	list-style: none;
 	width: 100%;
@@ -89,8 +93,3 @@ li .btn-delete {
 	font-size: 20px;
 	color: #FFCC00;
 }
-	
-
-
-
-
